@@ -1,4 +1,3 @@
-cd simple
 rpm -ivh httpd
 date > date.txt
 mv date.txt /usr/local/apache2/
