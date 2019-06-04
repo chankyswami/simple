@@ -1,0 +1,3 @@
+cd simple
+yum install httpd -y
+docker build -t chanky
